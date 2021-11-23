@@ -1,0 +1,71 @@
+.bg-nav{
+    background: #ff6e7f;
+    background: -webkit-linear-gradient(to right, #bfe9ff, #ff6e7f);
+    background: linear-gradient(to right, #bfe9ff, #ff6e7f);
+}
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar{
+    background: #FF512F;
+    background: -webkit-linear-gradient(to right, #F09819, #FF512F);
+    background: linear-gradient(to-right, #F09819, #FF512F);
+    background-color: #333;
+}
+
+.navbar a :hover{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+
+    background-color: #ddd;
+    color: black;
+}
+
+.light_text{
+    margin-top: 100px;
+}
+
+.footer{
+    background: #314755;
+    background: -webkit-linear-gradient(to right, #26a0da, #314755);
+    background: linear-gradient(to-right, #26a0da, #314755);
+    text-align: center;
+}
+
+.box{
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-shadow:10px 10px 10px #111;
+    color:black
+}
+
+#banner{
+    text-align:center;
+    color:darkblack;
+    font-style:italic;
+    font-family:Times New Roman;
+    font-size:35px;
+    text-shadow:2px 2px 2px #000;
+}
+
+.tab{
+    padding:14px 20px;
+    font-family:CASTELLAR;
+    border:none;
+    cursor:pointer;
+    color:#c46210;
+    display:inline-block;
+    border-radius:12px;
+    color:yellow;
+}
+
+.tab:hover{
+    margin-top:10px;
+}
